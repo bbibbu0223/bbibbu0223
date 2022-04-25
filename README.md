@@ -1,5 +1,5 @@
-sohee the BIGINNER<br>
-newb web publisher
+<h2>sohee the BIGINNER</h2><br>
+<h3>newb web publisher</h3>
 
 
 😼 i can do this<br>
