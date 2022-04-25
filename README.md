@@ -13,7 +13,7 @@ newb web publisher
 <img src="https://img.shields.io/badge/Photoshop-cdc1b4?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-cdc1b4?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
 
-🎨 maybe you like it
+🎨 maybe you like it<br>
  <a href="https://instagram.com/cotton_a_kid?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-F08705?style=flat-square&logo=Instagram&logoColor=white"/>
  </a>
 
