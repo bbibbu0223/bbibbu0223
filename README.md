@@ -1,5 +1,7 @@
 sohee the BIGINNER<br>
--newb web publisher-
+-newb web publisher-<br>
+
+![1878](https://user-images.githubusercontent.com/80902808/165100451-46211fa5-4a9b-4ccf-a1bc-a2681d2682ff.gif)
 
 
 😼 i can do this<br>
