@@ -1,8 +1,6 @@
 sohee the BIGINNER<br>
 -newb web publisher-<br>
-
-![1878](https://user-images.githubusercontent.com/80902808/165100451-46211fa5-4a9b-4ccf-a1bc-a2681d2682ff.gif)
-
+<div style="align-item:center;">![1878](https://user-images.githubusercontent.com/80902808/165100451-46211fa5-4a9b-4ccf-a1bc-a2681d2682ff.gif)</div>
 
 😼 i can do this<br>
 <img src="https://img.shields.io/badge/html5-cdc1b4?style=flat-square&logo=HTML5&logoColor=white"/>
