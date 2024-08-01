@@ -1,6 +1,6 @@
 <div align="center">
- <h2>sohee the BIGINNER</h2><br>
- <h5>newb web publisher</h5><br>
+ <h2>Lv.2 sohee</h2><br>
+ <h5>web publisher</h5><br>
 </div>
 
 <div align="center">
