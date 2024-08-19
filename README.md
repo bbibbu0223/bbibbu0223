@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/Photoshop-cdc1b4?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
  <img src="https://img.shields.io/badge/Illustrator-cdc1b4?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-cdc1b4?style=flat-square&logo=Figma&logoColor=white"/>
- <img src="https://img.shields.io/badge/XD-cdc1b4?style=flat-square&logo=XD&logoColor=white"/>
+ <img src="https://img.shields.io/badge/XD-cdc1b4?style=flat-square&logo=AdobeXd&logoColor=white"/>
 
 </div>
 
